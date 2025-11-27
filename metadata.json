@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI 换装大师 (Nano Banana Edition)",
+  "description": "基于 Google Nano Banana 模型的智能换装应用。支持上传或生成衣物，一键生成真人试穿效果。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
